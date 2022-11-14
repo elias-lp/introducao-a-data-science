@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-notas = pd.read_csv("ratings.csv")
+notas = pd.read_csv("ratings.csv") asdasd
 notas.head()
 
 notas.shape
